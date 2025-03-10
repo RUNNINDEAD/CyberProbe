@@ -1,0 +1,11 @@
+requests
+beautifulsoup4
+scapy
+paramiko
+nmap
+pytest
+argparse
+signal 
+requests
+sys
+base64

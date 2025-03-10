@@ -1,0 +1,15 @@
+Whats on the Program
+-------------------------
+Nmap 
+Dirbuster
+Some cryptography to decode(basic easy ones)
+ - Base64
+ - Binary 
+ - Hexidecimal 
+ - RSA
+ 
+
+Include version 2.0
+-------------------------
+Password cracking programs 
+Powershell version for windows 
