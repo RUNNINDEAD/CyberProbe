@@ -23,7 +23,7 @@ pip install -r requirements.txt
 To run CyberProbe, execute the main script:
 
 ```
-python src/cyberprobe.py
+python3 cyberprobe.py
 ```
 
 ### If on Linux
